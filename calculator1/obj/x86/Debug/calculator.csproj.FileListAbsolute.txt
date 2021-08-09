@@ -1,0 +1,7 @@
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.pdb
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Form1.resources
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.csproj.GenerateResource.Cache
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.exe
+C:\Users\FOLARIN\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.pdb

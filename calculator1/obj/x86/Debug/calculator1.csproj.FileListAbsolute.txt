@@ -1,0 +1,12 @@
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\bin\Debug\calculator1.exe
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\bin\Debug\calculator1.pdb
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.Form1.resources
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.Properties.Resources.resources
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.csproj.GenerateResource.Cache
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.exe
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.pdb
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator1.csprojResolveAssemblyReference.cache
+C:\Users\FOLARIN\documents\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.Form2.resources
+C:\Users\FOLARIN\documents\visual studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.AboutBox1.resources
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.Form3.resources
+C:\Users\FOLARIN\Documents\Visual Studio 2010\Projects\calculator1\calculator1\obj\x86\Debug\calculator.Form4.resources
